@@ -9,6 +9,6 @@ with col2:
     st.title("Atiyeh Alikhani")
     content="""
         Hi,i am atiyeh !\n
-        I am a student of programming course (Python).👩🏼‍💻
+        I am a student of programming course (Python)👩🏼‍💻
         """
     st.write(content)
